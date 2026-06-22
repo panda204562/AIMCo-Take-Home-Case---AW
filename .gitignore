@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# AIMCo's own template + anything built on or referencing it: contains
+# AIMCo's internal branding/theme, layout/font conventions, and leftover
+# real internal content from the source file. Keep these local-only;
+# attach directly to the submission email instead of publishing to a
+# public repo.
+AIMCo_Treasury_Template.pptx
+AIMCo_Treasury_Summary.pptx
+make_deck.py
